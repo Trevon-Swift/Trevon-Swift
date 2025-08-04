@@ -7,7 +7,7 @@ Cybersecurity Analyst and Incident Responder
 I've been learning Cybersecurity for 2 years after realizing my passion for technology and the multifaceted infrastructure that makes up the digital landscape we use daily. I started with an introductory automation course but I've developed more interest in Incident Response and Cloud Security.
 
 * 🌍  I'm based in Detroit, MI
-* 🖥️  See my portfolio at [MyPortfolio](http://github.com/Trevon-Swift/MyPortfolio.git)
+* 🖥️  See my portfolio at [cybersecurity-portfolio](http://github.com/Trevon-Swift/cybersecurity-portfolio.git)
 * ✉️  You can contact me at [Swift.Tre@Gmail.com](mailto:Swift.Tre@Gmail.com)
 * 🧠  I'm learning Comptia Sec+, Net+, Cysa+
 * 🤝  I'm open to collaborating on interesting projects involving networking, SIEM/SOAR, log analysis, coding, and networking.
