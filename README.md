@@ -39,9 +39,9 @@ Dedicated cybersecurity professional with 2 years of hands-on learning through p
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Vulnerability Management Lab](https://github.com/Trevon-Swift/vulnerability-management-lab) | Professional vulnerability assessment environment | Nessus, OpenVAS, Python |
-| [Malware Analysis Lab](https://github.com/Trevon-Swift/malware-analysis-lab) | Isolated malware analysis with custom IOCs | FlareVM, REMnux, YARA |
-| [Security Automation Scripts](https://github.com/Trevon-Swift/security-automation-scripts) | SOC automation and incident response tools | Python, Bash, APIs |
+| [Vulnerability Management Lab](https://github.com/Trevon-Swift/Vulnerability-Management-Project-1) | Professional vulnerability assessment environment | Nessus, OpenVAS, Python |
+| [Malware Analysis Lab] Coming Soon | Isolated malware analysis with custom IOCs | FlareVM, REMnux, YARA |
+| [Security Automation Scripts] Coming Soon | SOC automation and incident response tools | Python, Bash, APIs |
 
 ---
 
