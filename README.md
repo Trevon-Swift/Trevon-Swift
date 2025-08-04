@@ -8,7 +8,6 @@ I've been learning Cybersecurity for 2 years after realizing my passion for tech
 
 * 🌍  I'm based in Detroit, MI
 * 🖥️  See my portfolio at [cybersecurity-portfolio](http://github.com/Trevon-Swift/cybersecurity-portfolio.git)
-* ✉️  You can contact me at [Swift.Tre@Gmail.com](mailto:Swift.Tre@Gmail.com)
 * 🧠  I'm learning Comptia Sec+, Net+, Cysa+
 * 🤝  I'm open to collaborating on interesting projects involving networking, SIEM/SOAR, log analysis, coding, and networking.
 * ⚡  I'm a music artist, let me know if you'd like to hear any of my work!
