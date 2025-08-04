@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity Analyst and Incident Responder
 --------------------------------------------
 
-I've been learning Cybersecurity for 2 years after realizing my passion for technology and the multifaceted infrastructure that makes up the digital landscape we use daily. I started with an introductory automation course but I've developed more interest in Incident Response and Penetration Testing.
+I've been learning Cybersecurity for 2 years after realizing my passion for technology and the multifaceted infrastructure that makes up the digital landscape we use daily. I started with an introductory automation course but I've developed more interest in Incident Response and Cloud Security.
 
 * 🌍  I'm based in Detroit, MI
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/Trevon-Swift/MyPortfolio.git)
 * ✉️  You can contact me at [Swift.Tre@Gmail.com](mailto:Swift.Tre@Gmail.com)
-* 🧠  I'm learning Comptia Sec+, Net+, LetsDefend
+* 🧠  I'm learning Comptia Sec+, Net+, Cysa+
 * 🤝  I'm open to collaborating on interesting projects involving networking, SIEM/SOAR, log analysis, coding, and networking.
 * ⚡  I'm a music artist, let me know if you'd like to hear any of my work!
 
