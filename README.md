@@ -1,81 +1,141 @@
-# Trevon Swift
+# Cybersecurity Portfolio - Trevon Swift
 
-## Cybersecurity Analyst | Incident Response & Cloud Security Focus
+### 👨‍💻 About This Portfolio
 
-Dedicated cybersecurity professional with 2 years of hands-on learning through practical labs, vulnerability assessments, and automation projects. Passionate about defending digital infrastructure and developing robust security solutions through continuous learning and real-world application.
-
-* 🌍  Based in Detroit, MI
-* 🛡️  View my projects: [Cybersecurity Portfolio](https://github.com/Trevon-Swift/cybersecurity-portfolio)
-* 📚  Currently pursuing: CompTIA Security+, Network+, CySA+
-* 🔍  Specializing in: Incident Response, SIEM/SOAR, Log Analysis, Cloud Security
-* 🤝  Open to collaborating on: Security automation, threat detection, vulnerability management
-* 🎵  Fun fact: I'm also a music artist - creativity fuels my problem-solving approach!
+Welcome to my comprehensive cybersecurity portfolio! This repository demonstrates practical security expertise through hands-on projects covering SIEM deployment, threat detection, automation, and system hardening. Each project showcases real-world skills that employers value in cybersecurity professionals.
 
 ---
 
-## 🛠️ Technical Skills
+### 🛡️ Core Security Projects
 
-### Security Tools & Platforms
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="Bash Scripting" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+#### 🏆 SIEM Homelab Project (SIEM-Homelab-Project-V2)
+**Status:** ✅ **Complete** | **Timeline:** 4 weeks | **Completed:** December 2025
 
-### Cybersecurity Expertise
-- **Vulnerability Management:** Nessus, OpenVAS, vulnerability assessment methodologies
-- **Malware Analysis:** Static/dynamic analysis, YARA rules, sandbox environments
-- **Web Application Security:** OWASP Top 10, Burp Suite, penetration testing
-- **Security Automation:** Python scripting, log analysis, incident response automation
-- **System Hardening:** CIS benchmarks, Linux security, compliance frameworks
-- **Network Security:** Wireshark, Nmap, network monitoring and analysis
+Enterprise-grade Security Information and Event Management (SIEM) homelab demonstrating threat detection, security monitoring, and incident response capabilities using Wazuh.
 
----
+**Key Achievements:**
+* **100% Detection Rate:** Successfully detected **121+ simulated attack events** across all scenarios.
+* **MITRE ATT&CK Validation:** Mapped and validated detection rules against tactics including **Initial Access (T1078)**, **Persistence (T1053.003)**, and **Privilege Escalation (T1548)**.
+* **Full Deployment:** Wazuh Manager (v4.14) deployed, multi-platform agents (Kali Linux) enrolled, and real-time security events flowing to the SIEM.
+* **Attack Scenarios Executed:** Brute Force (Hydra), File Integrity Violations (FIM), Privilege Escalation attempts, and Persistence mechanism establishment.
 
-## 🚀 Current Projects
+**Project Components:**
+* Wazuh SIEM Manager: Centralized security monitoring platform
+* Monitored Agents: Kali Linux, Ubuntu Server
+* Custom Detection: Rule creation, FIM, active response
+* Documentation: Professional incident response playbooks
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Vulnerability Management Lab](https://github.com/Trevon-Swift/Vulnerability-Management-Project-1) | Professional vulnerability assessment environment | Nessus, OpenVAS, Python |
-| [Malware Analysis Lab] Coming Soon | Isolated malware analysis with custom IOCs | FlareVM, REMnux, YARA |
-| [Security Automation Scripts] Coming Soon | SOC automation and incident response tools | Python, Bash, APIs |
+**Technologies:** Wazuh 4.14, Ubuntu Server, VirtualBox, Kali Linux, Python
+**Skills Demonstrated:** **SIEM Deployment**, **Log Analysis**, **Threat Detection Engineering**, **Incident Response**, Security Monitoring, Attack Simulation, **MITRE ATT&CK Framework**.
+**Repository:** [SIEM-Homelab-Project-V2](https://github.com/Trevon-Swift/SIEM-Homelab-Project-V2)
 
 ---
 
-## 📈 Learning Journey
+#### [🦠 Malware Analysis Lab](Coming Soon)
+**Status:** 📋 Planned (Next Project) | **Timeline:** 4 weeks
 
-**Currently Focusing On:**
-- CompTIA Security+ certification
-- Cloud security architecture (AWS)
-- Threat hunting and detection engineering
+Isolated malware analysis environment for static and dynamic analysis. Will feature custom detection rules, IOC development, and threat intelligence generation.
 
-**Next Steps:**
-- CompTIA CySA+ certification
-- GCIH (GIAC Certified Incident Handler)
-- Cloud security certifications
+**Planned Features:**
+* FlareVM and REMnux analysis environments
+* Isolated network configuration for safe analysis
+* Sample analysis workflow and IOC development
+* YARA rule creation and threat intelligence feeds
+
+**Technologies:** FlareVM, REMnux, YARA, Wireshark, MalwareBazaar
+**Skills Demonstrated:** Malware Analysis, Reverse Engineering, Threat Intelligence, Incident Response
+
+#### [🕷️ Web Application Security Testing](Coming Soon)
+**Status:** 📋 Planned (Project 3) | **Timeline:** 4 weeks
+
+Comprehensive web application penetration testing covering OWASP Top 10 vulnerabilities. Will include automated testing workflows and professional security assessments.
+
+**Technologies:** OWASP Juice Shop, Burp Suite, DVWA, Postman
+**Skills Demonstrated:** Web App Security, Penetration Testing, OWASP Top 10, Security Reporting
+
+#### [🤖 Security Automation & Scripting](Coming Soon)
+**Status:** 📋 Planned (Project 4) | **Timeline:** 5 weeks
+
+Python-based security automation for SOC operations, log analysis, and incident response. Will automate manual security tasks and improve operational efficiency.
+
+**Technologies:** Python, APIs, JSON, Regular Expressions, Linux/Windows
+**Skills Demonstrated:** Security Automation, Python Programming, SOC Operations, Incident Response
+
+#### [🛡️ Linux System Hardening](Coming Soon)
+**Status:** 📋 Planned (Project 5) | **Timeline:** 4 weeks
+
+CIS benchmark implementation and comprehensive Linux server hardening project. Will demonstrate enterprise-level security configuration and compliance management.
+
+**Technologies:** Ubuntu Server, CIS Benchmarks, Ansible, OpenSCAP, Nessus
+**Skills Demonstrated:** System Hardening, Compliance, Linux Administration, Configuration Management
 
 ---
 
-## 🤝 Let's Connect
+### 🌐 Cloud Security Projects
 
-<p align="left">
-<a href="https://www.linkedin.com/in/trevon-swift-34755b65" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Trevon-Swift" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-</a>
-</p>
+#### ☁️ AWS S3 Static Website Hosting
+**Status:** ✅ Complete
+
+Secure static website deployment on AWS S3 with proper access controls, CloudFront distribution, and security best practices implementation.
+
+**Security Features Implemented:**
+* S3 bucket security policies and access controls
+* CloudFront security headers and SSL/TLS configuration
+* IAM role-based access management
+* Security monitoring and logging setup
+
+**Technologies:** AWS S3, CloudFront, Route 53, IAM, CloudWatch
+**Skills Demonstrated:** Cloud Security, AWS Services, Infrastructure Security
+
+#### [🔐 Cloud Security Auditing Framework](Coming Soon)
+**Status:** 📋 Planned
+
+Automated cloud security assessment tools for AWS environments. Will identify misconfigurations, compliance gaps, and security vulnerabilities across cloud infrastructure.
+
+**Technologies:** AWS CLI, Python, Boto3, CloudTrail, AWS Config
+**Skills Demonstrated:** Cloud Security, Compliance Auditing, AWS Security Services
+
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Technical Toolkit
 
-![Trevon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevon-Swift&show_icons=true&theme=radical)
+| Category | Tools & Platforms |
+| :--- | :--- |
+| **SIEM/SOAR** | Wazuh, Splunk, ELK Stack, IBM QRadar (learning) |
+| **Malware Analysis** | FlareVM, REMnux, YARA, Ghidra |
+| **Web Security** | Burp Suite, OWASP ZAP, Nikto |
+| **Network Security** | Wireshark, Nmap, tcpdump |
+| **Cloud Security** | AWS Security Services, CloudTrail, GuardDuty |
+| **Programming & Automation** | **Python**, Bash, PowerShell, SQL, Docker, Git |
 
 ---
 
-*"Security is not a product, but a process. It's more than just technology - it's about building resilient systems through continuous learning and adaptation."*
+#### 💼 Open to Opportunities
+I'm actively seeking cybersecurity roles in:
+* **SOC Analyst positions**
+* **Security Analyst roles**
+* Incident Response teams
+* Cloud Security specialist positions
+* Junior Penetration Tester opportunities
+
+---
+
+### 🚀 What's Next?
+
+#### 📅 Q4 2025 Goals
+* **✅ Complete SIEM homelab with attack simulation and detection**
+* 📋 Begin malware analysis lab setup and first sample analysis
+
+
+#### 📅 Q1 2026 Goals
+* Complete security automation scripts for SOC operations
+* Start Linux system hardening project with full CIS compliance
+* Begin advanced cloud security auditing tools development
+* Start web application security testing methodology development
+
+***
+
+*This portfolio demonstrates practical cybersecurity expertise through hands-on projects and real-world applications. Every project is designed to showcase skills that employers value and security challenges that organizations face daily.*
+
+**Last Updated: December 2025**
