@@ -110,6 +110,15 @@ Automated cloud security assessment tools for AWS environments. Will identify mi
 | **Programming & Automation** | **Python**, Bash, PowerShell, SQL, Docker, Git |
 
 ---
+### 🤝 Contact
+
+**LinkedIn:** [Trevon Swift](https://linkedin.com/in/trevon-swift-35477b65) 
+
+**Portfolio:** [Trevon Swift](https://trevcyber-nw8mwnbm.manus.space/?code=SircLTT4QZepKyYWiSEdYd)
+
+**GitHub:** [Trevon-Swift](https://github.com/Trevon-Swift)  
+
+**Email:** [Trevon Swift](https://trevon.swift@protonmail.com)
 
 #### 💼 Open to Opportunities
 I'm actively seeking cybersecurity roles in:
