@@ -27,6 +27,7 @@ Enterprise-grade Security Information and Event Management (SIEM) homelab demons
 
 **Technologies:** Wazuh 4.14, Ubuntu Server, VirtualBox, Kali Linux, Python
 **Skills Demonstrated:** **SIEM Deployment**, **Log Analysis**, **Threat Detection Engineering**, **Incident Response**, Security Monitoring, Attack Simulation, **MITRE ATT&CK Framework**.
+
 **Repository:** [SIEM-Homelab-Project-V2](https://github.com/Trevon-Swift/SIEM-Homelab-Project-V2)
 
 ---
