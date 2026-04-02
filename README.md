@@ -4,5 +4,6 @@ SOC analyst focused on threat detection, log analysis, and incident documentatio
 Currently pursuing SC-200 (Microsoft Security Operations Analyst) · Holds CC (ISC2)
 Active in: Wazuh SIEM, Windows Event Logs, PowerShell analysis, MITRE ATT&CK, Threat intel
 
-→ All lab work is documented using a structured SOC writeup format. Scroll through pinned repos to see the investigations.
+→ All lab work is documented using a structured SOC writeup format.
+
 📧 trevon.swift@protonmail.com
