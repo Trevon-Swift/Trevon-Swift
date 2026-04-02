@@ -1,4 +1,5 @@
-Trevon Swift — Security Analyst
+# Trevon Swift — Security Analyst
+
 SOC analyst focused on threat detection, log analysis, and incident documentation. I build investigation-first labs and document my findings — with timelines, MITRE ATT&CK mapping, and clear reasoning.
 
 Currently pursuing SC-200 (Microsoft Security Operations Analyst) · Holds CC (ISC2)
